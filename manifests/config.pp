@@ -1,4 +1,4 @@
-define component_profile::config (
+define profile::config (
   $ensure,
   $priority   = '10',
   $cmd_name   = $name,
